@@ -1,0 +1,12 @@
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\bin\Debug\201800484_HOSPITAL.exe.config
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\bin\Debug\201800484_HOSPITAL.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\bin\Debug\201800484_HOSPITAL.pdb
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\bin\Debug\201800484_HOSPITAL.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.vbprojAssemblyReference.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\_201800484_HOSPITAL.Form1.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\_201800484_HOSPITAL.Resources.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.vbproj.GenerateResource.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.vbproj.CoreCompileInputs.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\Entregar2\20180484_TAREAP3\201800484_HOSPITAL\201800484_HOSPITAL\obj\Debug\201800484_HOSPITAL.pdb
